@@ -1,0 +1,22 @@
+---
+title: "Data science"
+author: "Wes"
+date: "4/25/2021"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Data Scientists Toolbox
+
+  This is a notes thing
+  
+## Week 1
+
+  This week covered the basics of the online course, as well as a brief explanation of what data science is and what it entails, such as: 
+  
+  - Picking out relevant data in large samples
+  - A brief explanation of what data is
+  - How to use forums like stack exchange 
