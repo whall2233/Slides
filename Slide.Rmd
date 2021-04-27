@@ -20,3 +20,27 @@ knitr::opts_chunk$set(echo = FALSE)
   - Picking out relevant data in large samples
   - A brief explanation of what data is
   - How to use forums like stack exchange 
+  
+## Week 2
+
+  This week covered the basics of R and what R is, with things like:
+  
+  - What packages are
+  - The use of Rstudio
+  - A brief description of repositories
+  
+## Week 3
+
+  Week 3 covered repositories a little bit more in depth, and taught the use of github. It covered:
+  
+  - Version control
+  - Pushing and pulling version branches
+  - R markdown
+  
+## Week 4
+  
+  The final week of the course focused on how you should frame and organize your data and questions. Things like:
+  
+  - Framing your question properly
+  - Making sure your data is relevant
+  - Using the data correctly
